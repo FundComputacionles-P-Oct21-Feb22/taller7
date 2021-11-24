@@ -2,12 +2,12 @@
 
 ## Representación gráfica y diseño de la solución de problemas con pseudocódigo aplicando estructuras lógicas repetitivas.
 
-### Problema01 (miniespecificación y diagrama de flujo)
+### Problema01 (miniespecificación y diagrama de flujo -usar cualquier ciclo-)
 * Generar  e imprimir la siguiente serie:
 
 >	-1/1+1/2-1/3+1/4-1/5+1/6-1/7+1/8-1/9+1/10
 
-### Problema02 (miniespecificación y diagrama de flujo)
+### Problema02 (miniespecificación y diagrama de flujo -usar cualquier ciclo-)
 * Generar  e imprimir la siguiente serie:
 > 	+1/1+1/3+1/5+1/7+1/9
 
